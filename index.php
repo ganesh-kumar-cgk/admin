@@ -1,3 +1,3 @@
 <?php
-echo "hida";
+echo "hida epdi iruka";
 ?>
